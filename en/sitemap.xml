@@ -67,19 +67,6 @@
                     hreflang="en"
                     href="https://ericsuid.netlify.app/en/emoji-support/"
                     /></url><url>
-            <loc>https://ericsuid.netlify.app/en/categories/</loc><lastmod>2021-04-26T22:44:57&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="zh-cn"
-                        href="https://ericsuid.netlify.app/categories/"
-                        /><xhtml:link
-                        rel="alternate"
-                        hreflang="fr"
-                        href="https://ericsuid.netlify.app/fr/categories/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="en"
-                    href="https://ericsuid.netlify.app/en/categories/"
-                    /></url><url>
             <loc>https://ericsuid.netlify.app/en/</loc><lastmod>2021-04-26T22:44:57&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
@@ -92,6 +79,19 @@
                     rel="alternate"
                     hreflang="en"
                     href="https://ericsuid.netlify.app/en/"
+                    /></url><url>
+            <loc>https://ericsuid.netlify.app/en/categories/</loc><lastmod>2021-04-26T22:44:57&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="zh-cn"
+                        href="https://ericsuid.netlify.app/categories/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="fr"
+                        href="https://ericsuid.netlify.app/fr/categories/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="https://ericsuid.netlify.app/en/categories/"
                     /></url><url>
             <loc>https://ericsuid.netlify.app/en/tags/configuration/</loc><lastmod>2021-04-26T22:44:57&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
