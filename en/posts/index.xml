@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Posts on Zzossig&#39;s Blog</title>
+    <link>https://ericsuid.netlify.app/en/posts/</link>
+    <description>Recent content in Posts on Zzossig&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>zzossig@gmail.com (zzossig)</managingEditor>
+    <webMaster>zzossig@gmail.com (zzossig)</webMaster>
+    <copyright>©2021, All Rights Reserved</copyright>
+    <lastBuildDate>Mon, 26 Apr 2021 20:34:08 +0800</lastBuildDate>
+    
+        <atom:link href="https://ericsuid.netlify.app/en/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>Hello Hugo</title>
+        <link>https://ericsuid.netlify.app/en/posts/hello-hugo/</link>
+        <pubDate>Mon, 26 Apr 2021 20:34:08 +0800</pubDate>
+        <author>zzossig@gmail.com (zzossig)</author>
+        <atom:modified>Mon, 26 Apr 2021 20:34:08 +0800</atom:modified>
+        <guid>https://ericsuid.netlify.app/en/posts/hello-hugo/</guid>
+        <description>Hello Hugo 啊a asdf bbb ccc asgh; asdf as等</description>
+        
+        <dc:creator>zzossig</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
