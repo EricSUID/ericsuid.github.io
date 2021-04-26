@@ -1262,4 +1262,3 @@ console.log('Hello CodeIT!');
 {{< script >}}
 console.log('Hello CodeIT!');
 {{< /script >}}
-

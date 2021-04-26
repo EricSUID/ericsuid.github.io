@@ -134,7 +134,7 @@ hugo serve
 
 去查看 `http://localhost:1313`.
 
-![基本配置下的预览](basic-configuration-preview.zh-cn.png "基本配置下的预览")
+![基本配置下的预览](basic-configuration-preview.png "基本配置下的预览")
 
 {{< admonition tip >}}
 当你运行 `hugo serve` 时, 当文件内容更改时, 页面会随着更改自动刷新.
@@ -763,7 +763,7 @@ hugo
 你可以参考它来配置你的社交链接.
 {{< /admonition >}}
 
-![完整配置下的预览](complete-configuration-preview.zh-cn.png "完整配置下的预览")
+![完整配置下的预览](complete-configuration-preview.png "完整配置下的预览")
 
 ### 3.2 网站图标, 浏览器配置, 网站清单
 
@@ -1012,4 +1012,3 @@ defaultContentLanguage = "zh-cn"
 [Algolia Atomic](https://github.com/chrisdmacrae/atomic-algolia) 是一个不错的选择.
 为了兼容 Hugo 的多语言模式, 你需要上传不同语言的 `index.json` 文件到对应的 algolia index, 例如 `zh-cn/index.json` 或 `fr/index.json`...
 {{< /admonition >}}
-
