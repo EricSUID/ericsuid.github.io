@@ -61,4 +61,4 @@ Disallow: /
 User-agent: ZoominfoBot
 Disallow: /
 
-Sitemap: https://ericsuid.netlify.app/en/sitemap.xml
+Sitemap: https://ericsuid.netlify.app/sitemap.xml
